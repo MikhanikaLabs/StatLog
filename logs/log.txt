@@ -1,2 +1,1 @@
 
-2018-04-03 00-37-29; http://localhost/php/statlog/ as:AS50009 Quartz Telecom LLC; city:Podolsk; country:Russia; countryCode:RU; isp:Quartz Telecom LLC; lat:55.4311; lon:37.5461; org:Quartz Telecom LLC; query:109.94.2.166; region:MOS; regionName:Moscow Oblast; status:success; timezone:Europe/Moscow; zip:142106; 
